@@ -2,7 +2,7 @@
 
 > *Experimental bots, bleeding-edge dashboards, and probably a cursed script or two.*
 
-We build:
+### We build:
 - <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" alt="bot" width="32" height="32" style="vertical-align: middle; margin-bottom: -4px;"> **Discord Bots**
 - <img src="https://common-front-apimanager-storage-wzo.s3.amazonaws.com/images/pic3.gif" alt="api" width="32" height="32" style="vertical-align: middle; margin-bottom: -4px;">  **APIs**
 - <img src="https://static.wikia.nocookie.net/minecraft/images/2/2c/PickaxeNew.gif/revision/latest?cb=20200308075605" alt="tools" width="32" height="32" style="vertical-align: middle; margin-bottom: -4px;">    **Weird Dev Tools**
@@ -11,7 +11,7 @@ So **you** don’t have to.
 
 ---
 
-<img src="https://media.tenor.com/QhRvvwpCdVoAAAAj/rocket.gif" alt="Rocket" width="32" height="32" style="vertical-align: middle; margin-bottom: -4px;"> | What We Do
+### <img src="https://media.tenor.com/QhRvvwpCdVoAAAAj/rocket.gif" alt="Rocket" width="32" height="32" style="vertical-align: middle; margin-bottom: -4px;"> | What We Do
 
 
 
