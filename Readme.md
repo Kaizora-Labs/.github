@@ -47,8 +47,8 @@ So **you** don’t have to.
 
 ## <img src="https://static-00.iconduck.com/assets.00/satellite-antenna-emoji-496x512-pw4r4n65.png" alt="stack" width="32" height="32" style="vertical-align: middle; margin-bottom: -4px;">  Get Involved
 
-[![Join Kaizora Labs on Discord](https://img.shields.io/badge/Discord-Join_Kaizora_Labs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link) , <br>
-[![Visit Website](https://img.shields.io/badge/Website-Explore_Now-black?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website-link.com)
+[![Join Kaizora Labs on Discord](https://img.shields.io/badge/Discord-Join_Kaizora_Labs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7F57yFdGma) , <br>
+[![Visit Website](https://img.shields.io/badge/Website-Explore_Now-black?style=for-the-badge&logo=firefox&logoColor=white)](https://kaizora-labs.vercel.app/)
 
 
 >...Kaizora Labs is wating for your reply
